@@ -14,7 +14,6 @@ Este proyecto fue desarrollado como parte de mi **proyecto de título** (tesis) 
 - **Interfaz intuitiva:** Presentación de alertas y datos relevantes en tiempo real.
 
 ---
-![equipoFireWarning](https://github.com/user-attachments/assets/550f0186-11b3-475b-af96-87b6cf7657e6)
 
 ## ⚙️ Tecnologías Utilizadas
 
@@ -51,4 +50,5 @@ Proyecto desarrollado por Camilo Irarrazabal, Juan Carlos Ulloa, Andrea Guidonsk
 Eqquipo de desarrollo:
 - **[Juan Carlos Ulloa](https://github.com/Jcstrack)**.
 - **[Andrea Guidonsky](https://github.com/andreavgq)**.
+![Equipo de desarrollo](https://github.com/user-attachments/assets/2b6924a2-08be-4bd2-97e0-2939da4c656e)
 
