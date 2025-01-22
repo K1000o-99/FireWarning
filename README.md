@@ -50,5 +50,6 @@ Proyecto desarrollado por Camilo Irarrazabal, Juan Carlos Ulloa, Andrea Guidonsk
 Eqquipo de desarrollo:
 - **[Juan Carlos Ulloa](https://github.com/Jcstrack)**.
 - **[Andrea Guidonsky](https://github.com/andreavgq)**.
+- 
 ![Equipo de desarrollo](https://github.com/user-attachments/assets/2b6924a2-08be-4bd2-97e0-2939da4c656e)
 
