@@ -48,8 +48,9 @@ Este proyecto fue desarrollado como parte de mi **proyecto de título** (tesis) 
 Proyecto desarrollado por Camilo Irarrazabal, Juan Carlos Ulloa, Andrea Guidonsky como parte del proyecto de título (tesis) en Duoc UC, dentro del Centro de Innovación Tecnológica (CITT).****
 
 Eqquipo de desarrollo:
+- **[Camilo Irarrazabal](https://github.com/K1000o-99)**.
 - **[Juan Carlos Ulloa](https://github.com/Jcstrack)**.
 - **[Andrea Guidonsky](https://github.com/andreavgq)**.
-- 
+  
 ![Equipo de desarrollo](https://github.com/user-attachments/assets/2b6924a2-08be-4bd2-97e0-2939da4c656e)
 
